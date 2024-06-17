@@ -1,0 +1,19 @@
+.icon{
+    margin-left: 1%;
+    height: 38px;
+    width: 38px;
+    margin-right: 0.2%;
+}
+
+.head{
+    display : flex;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e0e0e0;
+    align-items: center;
+}
+
+
+.head-txt {
+    font-size: x-large;
+    font-family: cursive;
+}
