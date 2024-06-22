@@ -7,9 +7,10 @@
 
 .head{
     display : flex;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     border-bottom: 1px solid #e0e0e0;
     align-items: center;
+    background-image:linear-gradient(to right,white,rgb(169, 164, 164),rgb(154, 154, 169));
 }
 
 
