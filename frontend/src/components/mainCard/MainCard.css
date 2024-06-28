@@ -1,17 +1,25 @@
-.main-body{
-    margin-left: 10%;
-  justify-content: center;
-  align-items: center;
+.large-icon {
+  font-size: 32px !important; 
 }
-.card1{
-  display: flex;
-  width:40%;
-  height: 70vh;
-  justify-content: center;
-  align-items: center;
+
+.main-card{
+  background-image: linear-gradient(to right, rgb(234, 234, 226), rgb(236, 244, 236) ,rgb(255, 255, 255));
 }
-.card1:hover{
-  box-shadow:10px 10px 10px red;
-  transform: scale(1.02);
-  background-color: aqua;
+
+.heading{
+  font-family: "Pacifico", cursive;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 50px;
+  letter-spacing: 3px;
+}
+
+.quote{
+  font-family: "Londrina Outline", sans-serif;
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 25px;
+  color: black;
+  letter-spacing: 2px;
+  padding-right: 2%;
 }

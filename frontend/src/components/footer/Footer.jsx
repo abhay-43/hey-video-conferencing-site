@@ -4,7 +4,7 @@ function Footer(){
     return (
         <footer>
             <div className="foot">
-            <h3><b>Test footer</b></h3>
+            <h3><b>© Copyright 2024, All rights reserved.</b></h3>
             </div>
         </footer>
     )

@@ -7,10 +7,9 @@
 
 .head{
     display : flex;
-    /* background-color: #ffffff; */
     border-bottom: 1px solid #e0e0e0;
     align-items: center;
-    background-image:linear-gradient(to right,white,rgb(169, 164, 164),rgb(154, 154, 169));
+    background-image:linear-gradient(to right,white,rgb(211, 240, 240),rgb(182, 228, 223), rgb(195, 195, 240));
 }
 
 

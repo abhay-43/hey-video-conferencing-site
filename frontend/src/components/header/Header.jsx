@@ -4,7 +4,7 @@ function Header(){
     return (
         <header>
             <div className="head">
-            <img className='icon' src='./favicon.png'></img>
+            <img className='icon' src='./favicon.png' alt="icon"></img>
             <p className="head-txt"><b>hey!</b></p>
             </div>
         </header>
